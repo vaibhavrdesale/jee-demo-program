@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vadesale
+ *
+ */
+module sumOfCube {
+}
