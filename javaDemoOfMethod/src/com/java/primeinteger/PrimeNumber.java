@@ -25,7 +25,8 @@ public class PrimeNumber {
 				System.out.println(i);
 			}
 		}
-
+		
+		System.out.println("Thanks for use prime number program");
 
 	}
 
